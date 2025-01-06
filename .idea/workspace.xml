@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Test_PyATB5xAPIAutomationFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/testdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/CRUD/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/CRUD/test_create_booking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/E2E/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="Tasks_Framework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736191146878</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tasks_Framework">
+      <option name="closed" value="true" />
+      <created>1736194952793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736194952793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tasks_Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks_Framework" />
   </component>
 </project>
