@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="Tasks_Framework" />
+    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="Tasks_Framework">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC1_complete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/Tasks/test_E2ETC7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/test_E2ETC1_complete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/E2E/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api_request_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/common_verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/payload_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +39,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jskaria18&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jskaria18/Test_PyATB5xAPIAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;64bfd6f4-8b4c-41e9-bb06-07760136ffc0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -32,13 +62,119 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_create_booking.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking.executor": "Run",
+    "Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking_and_confirm_deletion.executor": "Run",
+    "Python tests.Python tests for test_E2ETC3.TestE2E_03.test_create_patch_verify_booking.executor": "Run",
+    "Python tests.Python tests for test_e2e_complete.TestE2E1.executor": "Run",
+    "Python tests.Python tests for test_e2e_complete.test_delete_booking.executor": "Run",
+    "Python tests.Python tests for test_e2e_complete.test_update_booking_using_token.executor": "Run",
+    "Python tests.Python tests in test_E2ETC1_complete.py.executor": "Run",
+    "Python tests.Python tests in test_E2ETC2.py.executor": "Run",
+    "Python tests.Python tests in test_E2ETC3.py.executor": "Run",
+    "Python tests.Python tests in test_E2ETC4.py.executor": "Run",
+    "Python tests.Python tests in test_E2ETC5.py.executor": "Run",
+    "Python tests.Python tests in test_E2ETC6.py.executor": "Run",
+    "Python tests.Python tests in test_E2ETC7.py.executor": "Run",
+    "Python tests.Python tests in test_create_booking.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/Test_PyATB5xAPIAutomationFramework/src/tests/E2E/Tasks",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\Test_PyATB5xAPIAutomationFramework\src\tests\E2E\Tasks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for src.tests.E2E.test_E2ETC1_complete.TestE2E1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Test_PyATB5xAPIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/E2E" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.E2E.test_E2ETC1_complete.TestE2E1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.tests.E2E.test_E2ETC1_complete.test_delete_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Test_PyATB5xAPIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/E2E" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.E2E.test_E2ETC1_complete.test_delete_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Test_PyATB5xAPIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/E2E/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_E2ETC2.TestE2ETC_02.test_delete_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking_and_confirm_deletion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Test_PyATB5xAPIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/E2E/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_E2ETC2.TestE2ETC_02.test_delete_booking_and_confirm_deletion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_E2ETC3.TestE2E_03.test_create_patch_verify_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Test_PyATB5xAPIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/E2E/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_E2ETC3.TestE2E_03.test_create_patch_verify_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_E2ETC3.TestE2E_03.test_create_patch_verify_booking" />
+        <item itemvalue="Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking_and_confirm_deletion" />
+        <item itemvalue="Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking" />
+        <item itemvalue="Python tests.Python tests for src.tests.E2E.test_E2ETC1_complete.test_delete_booking" />
+        <item itemvalue="Python tests.Python tests for src.tests.E2E.test_E2ETC1_complete.TestE2E1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736195583952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tasks_Framework">
+      <option name="closed" value="true" />
+      <created>1736196318918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736196318918</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

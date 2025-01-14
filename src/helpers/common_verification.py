@@ -18,3 +18,9 @@ def verify_json_key_not_null(key):
 #This is actually the booking id
 def verify_json_key_gr_than_zero(key):
     assert key > 0, "Key is not greater than zero"
+
+def verify_json_key_not_None(key):
+    assert key is not None, "Failed! Key is None"
+
+def verify_delete_response(response):
+    assert "Created" in response
