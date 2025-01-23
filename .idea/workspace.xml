@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="Tasks_Framework" />
+    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="7thJan_Tasks_Framework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,34 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking.executor": "Run",
-    "Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking_and_confirm_deletion.executor": "Run",
-    "Python tests.Python tests for test_E2ETC3.TestE2E_03.test_create_patch_verify_booking.executor": "Run",
-    "Python tests.Python tests for test_e2e_complete.TestE2E1.executor": "Run",
-    "Python tests.Python tests for test_e2e_complete.test_delete_booking.executor": "Run",
-    "Python tests.Python tests for test_e2e_complete.test_update_booking_using_token.executor": "Run",
-    "Python tests.Python tests in test_E2ETC1_complete.py.executor": "Run",
-    "Python tests.Python tests in test_E2ETC2.py.executor": "Run",
-    "Python tests.Python tests in test_E2ETC3.py.executor": "Run",
-    "Python tests.Python tests in test_E2ETC4.py.executor": "Run",
-    "Python tests.Python tests in test_E2ETC5.py.executor": "Run",
-    "Python tests.Python tests in test_E2ETC6.py.executor": "Run",
-    "Python tests.Python tests in test_E2ETC7.py.executor": "Run",
-    "Python tests.Python tests in test_create_booking.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/Test_PyATB5xAPIAutomationFramework/src/tests/E2E/Tasks",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_E2ETC2.TestE2ETC_02.test_delete_booking_and_confirm_deletion.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_E2ETC3.TestE2E_03.test_create_patch_verify_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_e2e_complete.TestE2E1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_e2e_complete.test_delete_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_e2e_complete.test_update_booking_using_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC1_complete.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC5.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC6.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_E2ETC7.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_create_booking.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/Test_PyATB5xAPIAutomationFramework/src/tests/E2E/Tasks&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\Test_PyATB5xAPIAutomationFramework\src\tests\E2E\Tasks" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for src.tests.E2E.test_E2ETC1_complete.test_delete_booking">
     <configuration name="Python tests for src.tests.E2E.test_E2ETC1_complete.TestE2E1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Test_PyATB5xAPIAutomationFramework" />
       <option name="ENV_FILES" value="" />
@@ -221,11 +223,20 @@
       <option name="project" value="LOCAL" />
       <updated>1736886727787</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7thJan_Tasks_Framework">
+      <option name="closed" value="true" />
+      <created>1736886785207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736886785207</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tasks_Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks_Framework" />
+    <MESSAGE value="7thJan_Tasks_Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="7thJan_Tasks_Framework" />
   </component>
 </project>
