@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="7thJan_Tasks_Framework">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c33e7b3d-002e-4aa0-b9d7-31ad3e2418bd" name="Changes" comment="Added requirements.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,12 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736886785207</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added requirements.txt">
+      <option name="closed" value="true" />
+      <created>1737637764562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737637764562</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tasks_Framework" />
     <MESSAGE value="7thJan_Tasks_Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="7thJan_Tasks_Framework" />
+    <MESSAGE value="Added requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added requirements.txt" />
   </component>
 </project>
